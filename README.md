@@ -5,6 +5,7 @@ Run index1.html
 Make sure that you are in correct directory structure.
 
 -------------------------------------
-#Screenshot :
+# Screenshot :
 
-https://github.com/supriya1511/Visiting-Flip-Card/issues/1#issue-611475590
+![image](https://user-images.githubusercontent.com/47708476/80922278-a078b780-8d99-11ea-9341-c6555803df8f.png)
+
