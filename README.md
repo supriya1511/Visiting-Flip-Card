@@ -11,5 +11,6 @@ Make sure that you are in correct directory structure.
 
 ![image](https://user-images.githubusercontent.com/47708476/80922342-09f8c600-8d9a-11ea-9eb5-b78a0d5733e8.png)
 
-Click and it will redirect to respective accounts :
+## Click and it will redirect to respective accounts :
+
 ![image](https://user-images.githubusercontent.com/47708476/80922360-3a406480-8d9a-11ea-9302-3e2de33a9e5a.png)
