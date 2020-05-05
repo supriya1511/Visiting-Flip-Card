@@ -1,4 +1,4 @@
-Vising Flip Card with HTML and CSS 
+Visitng Flip Card with HTML and CSS 
 ------------------------------------
 Run index1.html 
 ------------------------------------
